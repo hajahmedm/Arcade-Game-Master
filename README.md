@@ -4,7 +4,7 @@ The project is a simple classic arcade game made using JS.
 
 
 ## Preview
-You can check the live website [Here]( https://hajahmedm.github.io/Arcade-Game-Master/)  
+Play the Game [Here]( https://hajahmedm.github.io/Arcade-Game-Master/)  
 
 ## How to play the game:
 Use arrows to move your hero character by using up/down/right/left on your keyboard
